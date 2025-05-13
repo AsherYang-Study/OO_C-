@@ -109,7 +109,7 @@ int main() {
 	//pet_manager_readFile();
 	pet_manager_menu();
 
-	cout<<"finish main()!"<<endl;
+	cout<<"finish main()! check"<<endl;
 	return 0;
 }
 
